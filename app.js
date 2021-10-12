@@ -15,7 +15,7 @@ const User = require("./model/user");
 app.post("/welcome", auth, async (req, res) => {
   const email = req.user.email;
   const user = await User.findOne({ email });
-  res.status(200).send("Welcome 🙌 " + user.first_name + "!");
+  res.status(200).send("Welcome 🙌 " + user.first_name + " 👋");
 });
 
 // Register
