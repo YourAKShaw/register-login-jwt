@@ -71,3 +71,5 @@
 ```json
 Welcome 🙌 Ayush 👋
 ```
+
+[**NOTE:** The `/welcome` endpoint also supports `token` as a query param and `x-access-token` as a header.]
