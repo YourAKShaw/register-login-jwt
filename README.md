@@ -27,6 +27,8 @@
 }
 ```
 
+---
+
 `POST` `/login`
 
 **Sample Request Body:**
@@ -51,6 +53,8 @@
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjE2NTJkOWJlZDZiNjEzNmViNmI0ZTU2IiwiZW1haWwiOiJheXVzaHNoYXd4QGdtYWlsLmNvbSIsImlhdCI6MTYzNDAyNDg0NSwiZXhwIjoxNjM0MDMyMDQ1fQ.sSlv_JcmpLhlsLOQs2QuxL6I1WO2tEiqRiVFuMG0thM"
 }
 ```
+
+---
 
 `POST` `/welcome`
 
