@@ -6,9 +6,9 @@
 
 ```json
 {
-  "first_name": "Arpana",
-  "last_name": "Ray",
-  "email": "arpana@gmail.com",
+  "first_name": "Ayush",
+  "last_name": "Shaw",
+  "email": "ayush@gmail.com",
   "password": "1234567890"
 }
 ```
@@ -17,9 +17,9 @@
 
 ```json
 {
-  "first_name": "Arpana",
-  "last_name": "Ray",
-  "email": "arpana@gmail.com",
+  "first_name": "Ayush",
+  "last_name": "Shaw",
+  "email": "ayush@gmail.com",
   "password": "$2a$10$ERCbbtX97yv95pH9FcKqAeiLGeyJ7LOJvdSjG8u2HYleqAhT6ekYG",
   "_id": "61653c9e09a1535274e66e71",
   "__v": 0,
